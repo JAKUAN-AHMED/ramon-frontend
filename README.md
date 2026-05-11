@@ -211,7 +211,7 @@ MIT License - feel free to use this project for your own purposes.
 
 ## Contact
 
-For questions or feedback, please reach out to staariful@gmail.com
+For questions or feedback, please reach out to jakuanultimate777@gmail.com
 
 ---
 
